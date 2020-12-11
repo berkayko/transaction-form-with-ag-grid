@@ -1,0 +1,32 @@
+.App {
+  margin: auto;
+  text-align: center;
+  align-self: auto;
+  width: fit-content;
+  height: fit-content;
+  
+}
+.btn_NewTran{
+
+float: none;
+  align-self: auto;
+}
+
+
+.App-title {
+  font-size: 1.5em;
+}
+.Label{
+  text-align: left;
+column-count: 2;
+column-span: all;
+}
+
+.NewTran {
+  margin: auto;
+  text-align: left;
+  align-self: center;
+  width: fit-content;
+  height: fit-content;
+}
+
